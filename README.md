@@ -48,4 +48,3 @@ Contributions to improve and enhance TenWolf are welcome! Feel free to fork the 
 
 Thank you for using TenWolf! We hope you enjoy a personalized news experience with our platform. 💡
 
-[![CodeFactor](https://www.codefactor.io/repository/github/qnam1/tenwolf-swen.py/badge)](https://www.codefactor.io/repository/github/qnam1/tenwolf-swen.py)
